@@ -10,7 +10,7 @@ Frontend Developer at <a href="https://www.rzilient.club">Rzilient</a><img src="
 
 ```javascript
 const lourdes = {
-    code: ["React", "Javascript", "Typescript", "HTML"],
+    askMeAbout: ["Tech", "Escape room lover", "Animals", "Music", "Restaurants"],
     technologies: {
         frontEnd: {
             frameworks: ["React"],
