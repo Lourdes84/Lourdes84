@@ -13,7 +13,7 @@ const lourdes = {
     code: ["React", "Javascript", "Typescript", "HTML"],
     technologies: {
         frontEnd: {
-            Frameworks: ["React"],
+            frameworks: ["React"],
             languages: ["Javascript", "Typescript", "Html"]
             styles: ["Css", "Styled Components", "Sass", "Bootstrap" ]
         },
