@@ -23,5 +23,5 @@ const lourdes = {
 };
 ```
 
-[![Lourdes GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourdes84)](https://github.com/Lourdes84/github-readme-stats)
+![Lourdes GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourdes84&count_private=true)
 
