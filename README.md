@@ -14,7 +14,7 @@ const lourdes = {
     technologies: {
         frontEnd: {
             frameworks: ["React"],
-            languages: ["Javascript", "Typescript", "Html"]
+            languages: ["Javascript", "Typescript", "Html"],
             styles: ["Css", "Styled Components", "Sass", "Bootstrap" ]
         },
         unitTest: ["React testing library", "Jest"],
