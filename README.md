@@ -10,15 +10,15 @@ Frontend Developer at <a href="https://www.rzilient.club">Rzilient</a><img src="
 
 ```javascript
 const lourdes = {
-    code: ["React", "Javascript", "Typescript"],
-    askMeAbout: ["frontend", "tech", "web dev"],
+    code: ["React", "Javascript", "Typescript", "HTML"],
     technologies: {
         frontEnd: {
-            js: ["React", "Typescript],
+            Frameworks: ["React"],
+            languages: ["Javascript", "Typescript", "Html"]
             styles: ["Css", "Styled Components", "Sass", "Bootstrap" ]
         },
-        test: ["React testing library", "Jest"],
-        misc: ["Visual Studio Code", "Postman", "StoryBook", "Git"]
+        unitTest: ["React testing library", "Jest"],
+        tools: ["Visual Studio Code", "Git", "Postman", "Jira", "StoryBook"]
     }
 };
 ```
