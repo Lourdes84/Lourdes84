@@ -23,5 +23,5 @@ const lourdes = {
 };
 ```
 
-![Lourdes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourdes84&show_icons=true&theme=merko&count_private=true)
+![Lourdes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourdes84&show_icons=true&theme=tokyonight&count_private=true)
 
