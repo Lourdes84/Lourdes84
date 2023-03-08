@@ -25,6 +25,6 @@ const lourdes = {
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.linkedin.com/in/lougc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lourdes%20Gonzalez%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/lougc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lourdes%20Gonzalez%2-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:lourdes.gc84@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lourdes.gc84@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
