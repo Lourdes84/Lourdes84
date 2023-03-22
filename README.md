@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Lourdes González
-Frontend Developer at <a href="https://www.rzilient.club">Rzilient</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
