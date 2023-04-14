@@ -13,9 +13,9 @@ const lourdes = {
     askMeAbout: ["Tech", "Escape room lover", "Animals", "Music", "Restaurants"],
     technologies: {
         frontEnd: {
-            frameworks: ["React"],
-            languages: ["Javascript", "Typescript", "Html"],
-            styles: ["Css", "Styled Components", "Sass", "Bootstrap" ]
+            frameworks: ["React", "Bootstrap"],
+            languages: ["Javascript", "Typescript", "HTML5"],
+            styles: ["CSS3", "Styled Components", "Sass", "MUI" ]
         },
         unitTest: ["React testing library", "Jest"],
         tools: ["Visual Studio Code", "Git", "Postman", "Jira", "StoryBook"]
