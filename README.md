@@ -18,6 +18,7 @@ const lourdes = {
             styles: ["CSS3", "Styled Components", "Sass", "MUI" ]
         },
         unitTest: ["React testing library", "Jest"],
+        methodologies: "Scrum",
         tools: ["Visual Studio Code", "Git", "Postman", "Jira", "StoryBook"]
     }
 };
